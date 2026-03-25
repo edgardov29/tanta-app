@@ -1,0 +1,229 @@
+[
+  {
+  "id": "ensalada_abuela",
+  "plato": "ENSALADA ABUELA",
+  "porciones": 1,
+  "ingredientes": [
+    { "id": "lechuga_mix", "nombre": "Lechuga mix", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+    { "id": "lechuga_escarola", "nombre": "Lechuga escarola", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+    { "id": "pechuga_pollo", "nombre": "Pechuga de pollo", "cantidad": 150, "unidad": "gramos", "tipo": "simple" },
+    { "id": "base_anticuchera", "nombre": "Base anticuchera", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+    { "id": "pasas", "nombre": "Pasas", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+    { "id": "tocino", "nombre": "Tocino", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+    { "id": "manzana", "nombre": "Manzana", "cantidad": 1, "unidad": "unidad", "tipo": "simple" },
+    { "id": "palmito", "nombre": "Palmito", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+    { "id": "palta", "nombre": "Palta", "cantidad": 1, "unidad": "unidad", "tipo": "simple" },
+    { "id": "huevo", "nombre": "Huevo", "cantidad": 1, "unidad": "unidad", "tipo": "simple" },
+
+    {
+      "id": "vinagreta_curry",
+      "nombre": "Vinagreta de curry",
+      "tipo": "componente",
+      "ingredientes": [
+        { "id": "vinagreta_dijon", "nombre": "Vinagreta Dijon", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+        { "id": "compota_manzana", "nombre": "Compota de manzana", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+        { "id": "limon", "nombre": "Limón", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+        { "id": "sal", "nombre": "Sal", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+        { "id": "vinagre_jerez", "nombre": "Vinagre Jerez", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+        { "id": "curry", "nombre": "Curry", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+        { "id": "agua", "nombre": "Agua", "cantidad": "al gusto", "unidad": "", "tipo": "simple" }
+      ]
+    },
+
+    {
+      "id": "compota_manzana_detalle",
+      "nombre": "Compota de manzana",
+      "tipo": "componente",
+      "ingredientes": [
+        { "id": "manzana_compota", "nombre": "Manzana", "cantidad": 1, "unidad": "unidad", "tipo": "simple" },
+        { "id": "agua_compota", "nombre": "Agua", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+        { "id": "canela", "nombre": "Canela", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+        { "id": "azucar", "nombre": "Azúcar", "cantidad": "al gusto", "unidad": "", "tipo": "simple" }
+      ]
+    }
+  ]
+  },
+  {
+    "id": "ensalada_nikkey_pollo_camaron",
+    "plato": "ENSALADA NIKKEY POLLO Y CAMARÓN",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "lechuga_mix", "nombre": "Lechuga mix", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "zanahoria", "nombre": "Zanahoria", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "pimenton", "nombre": "Pimentón", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "mani_sin_sal", "nombre": "Maní sin sal", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "diente_dragon", "nombre": "Diente de dragón", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "pepino", "nombre": "Pepino", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "wantan_frito", "nombre": "Wantan frito", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "gajos_naranja", "nombre": "Gajos de naranja", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "cilantro", "nombre": "Cilantro", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "pollo", "nombre": "Pollo", "cantidad": 150, "unidad": "gramos", "tipo": "simple" },
+      { "id": "camaron", "nombre": "Camarón", "cantidad": 8, "unidad": "unidades", "tipo": "simple" },
+      { "id": "pollo_camaron_panko", "nombre": "Pollo o camarón apanado al panko", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+
+      {
+        "id": "apanado_pollo_camaron",
+        "nombre": "Apanado de pollo y camarón",
+        "tipo": "componente",
+        "ingredientes": [
+          { "id": "harina", "nombre": "Harina", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "sal", "nombre": "Sal", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "huevo", "nombre": "Huevo", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "panko", "nombre": "Panko", "cantidad": "al gusto", "unidad": "", "tipo": "simple" }
+        ]
+      },
+
+      {
+        "id": "vinagreta_rocoto_sesamo",
+        "nombre": "Vinagreta de rocoto y sésamo",
+        "tipo": "componente",
+        "ingredientes": [
+          { "id": "base_rocoto", "nombre": "Base de rocoto", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "aceite_premezcla", "nombre": "Aceite pre mezcla", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "aceite_vegetal", "nombre": "Aceite vegetal", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "vinagre_blanco", "nombre": "Vinagre blanco", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "vinagre_arroz", "nombre": "Vinagre de arroz", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "sal_vinagreta", "nombre": "Sal", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "limon", "nombre": "Limón", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "aceite_sesamo", "nombre": "Aceite sésamo", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "mostaza_dijon", "nombre": "Mostaza Dijon", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "vinagre_tinto", "nombre": "Vinagre tinto", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "salsa_soya", "nombre": "Salsa de soya", "cantidad": "al gusto", "unidad": "", "tipo": "simple" }
+        ]
+      },
+
+      {
+        "id": "base_rocoto_detalle",
+        "nombre": "Base de rocoto",
+        "tipo": "componente",
+        "ingredientes": [
+          { "id": "rocoto", "nombre": "Rocoto", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "vinagre_blanco_base", "nombre": "Vinagre blanco", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "azucar", "nombre": "Azúcar", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "kion", "nombre": "Kion", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "ketchup", "nombre": "Ketchup", "cantidad": "al gusto", "unidad": "", "tipo": "simple" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ensalada_cobb_casera",
+    "plato": "ENSALADA COBB CASERA",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "lechuga_mix", "nombre": "Lechuga mix", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "lechuga_escarola", "nombre": "Lechuga escarola", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "tomate", "nombre": "Tomate", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "champinones", "nombre": "Champiñones", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "huevo_cocido", "nombre": "Huevo cocido", "cantidad": 1, "unidad": "unidad", "tipo": "simple" },
+      { "id": "queso_azul", "nombre": "Queso azul", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "tocino", "nombre": "Tocino", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "pollo_plancha", "nombre": "Pollo a la plancha", "cantidad": 150, "unidad": "gramos", "tipo": "simple" },
+      { "id": "palta", "nombre": "Palta", "cantidad": 1, "unidad": "unidad", "tipo": "simple" },
+
+      {
+        "id": "vinagreta_dijon",
+        "nombre": "Vinagreta de dijón",
+        "tipo": "componente",
+        "ingredientes": [
+          { "id": "mostaza_dijon", "nombre": "Mostaza Dijón", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "yema_huevo", "nombre": "Yema de huevo", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "aceite_premezcla", "nombre": "Aceite premezcla", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "aceite_vegetal", "nombre": "Aceite vegetal", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "ajos_rallado", "nombre": "Ajos rallado", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "sal", "nombre": "Sal", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "limon", "nombre": "Limón", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "vinagre_jerez", "nombre": "Vinagre Jerez", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "salsa_inglesa", "nombre": "Salsa Inglesa", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "vinagre_balsamico", "nombre": "Vinagre balsámico", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "azucar", "nombre": "Azúcar", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "agua", "nombre": "Agua", "cantidad": "al gusto", "unidad": "", "tipo": "simple" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ensalada_lima_thai",
+    "plato": "ENSALADA LIMA THAI",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "lechuga_mixta", "nombre": "Lechuga mixta", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "panceta_cerdo_rb", "nombre": "RB Panceta de cerdo", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "tempura_broaster_rb", "nombre": "RB Tempura de broaster", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "salsa_coreana_rb", "nombre": "RB Salsa coreana", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "fideo_arroz_cocido", "nombre": "Fideo de arroz cocido", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "mango", "nombre": "Mango", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "diente_dragon", "nombre": "Diente de dragón", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "hierba_buena", "nombre": "Hierba buena", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "cilantro", "nombre": "Cilantro", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "mani_tostado", "nombre": "Maní tostado", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "pepino_criollo", "nombre": "Pepino criollo", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "pimenton_rojo", "nombre": "Pimentón rojo", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+
+      {
+        "id": "vinagreta_coreana",
+        "nombre": "Vinagreta coreana",
+        "tipo": "componente",
+        "ingredientes": [
+          { "id": "yema_huevo", "nombre": "Yema de huevo", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "mostaza_dijon", "nombre": "Mostaza Dijón", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "aceite_premezcla", "nombre": "Aceite pre mezcla", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "aceite_vegetal", "nombre": "Aceite vegetal", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "salsa_coreana_rb", "nombre": "RB Salsa coreana", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "sal", "nombre": "Sal", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "zumo_limon", "nombre": "Zumo de limón", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "vinagre_arroz", "nombre": "Vinagre de arroz", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "vinagre_blanco", "nombre": "Vinagre blanco", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "pasta_curry_rojo", "nombre": "Pasta de curry rojo", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "azucar_blanca", "nombre": "Azúcar blanca", "cantidad": "al gusto", "unidad": "", "tipo": "simple" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ensalada_keto",
+    "plato": "ENSALADA KETO",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "lechuga_escarola", "nombre": "Lechuga escarola", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "huevo_cocido", "nombre": "Huevo cocido (8 minutos)", "cantidad": 1, "unidad": "unidad", "tipo": "simple" },
+      { "id": "queso_azul", "nombre": "Queso azul", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "tocino_ahumado", "nombre": "Tocino ahumado", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "salsa_ranchera_rb", "nombre": "RB Salsa ranchera", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "tomate_picado", "nombre": "Tomate picado", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "cebollin", "nombre": "Cebollín", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+
+      {
+        "id": "mayonesa_leche",
+        "nombre": "Mayonesa de leche",
+        "tipo": "componente",
+        "ingredientes": [
+          { "id": "leche_fresca", "nombre": "Leche fresca", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "sal_mayonesa", "nombre": "Sal", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "mostaza", "nombre": "Mostaza", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "pimienta_negra", "nombre": "Pimienta negra", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "comino", "nombre": "Comino", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "aceite_vegetal", "nombre": "Aceite vegetal", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "vinagre_blanco", "nombre": "Vinagre blanco", "cantidad": "al gusto", "unidad": "", "tipo": "simple" }
+        ]
+      },
+
+      {
+        "id": "vinagreta_ranchera",
+        "nombre": "Vinagreta ranchera",
+        "tipo": "componente",
+        "ingredientes": [
+          { "id": "eneldo", "nombre": "Eneldo", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "zumo_limon", "nombre": "Zumo de limón", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "mayonesa_leche_rb", "nombre": "RB Mayonesa de leche", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "yogurt_griego", "nombre": "Yogurt griego", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "azucar_blanca", "nombre": "Azúcar blanca", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "ajo_polvo", "nombre": "Ajo en polvo", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "cebolla_polvo", "nombre": "Cebolla en polvo", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "sal_vinagreta", "nombre": "Sal", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "pimienta_negra_vinagreta", "nombre": "Pimienta negra", "cantidad": "al gusto", "unidad": "", "tipo": "simple" }
+        ]
+      }
+    ]
+  }
+]  

@@ -1,0 +1,356 @@
+[
+    {
+        "id": "piqueo_marino",
+        "plato": "PIQUEO MARINO",
+        "porciones": 1,
+        "ingredientes": [
+            {
+            "id": "wantan_pulpero",
+            "nombre": "Wantan pulpero",
+            "tipo": "componente",
+            "ingredientes": [
+                { "id": "pulpo_wantan", "nombre": "Pulpo", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "cebollin_blanco", "nombre": "Cebollín parte blanca", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "aceite_sesamo", "nombre": "Aceite sésamo", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "azucar", "nombre": "Azúcar", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "sal_wantan", "nombre": "Sal", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "zumo_kion", "nombre": "Zumo de kion", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "repollo", "nombre": "Repollo", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "chuno", "nombre": "Chuño", "cantidad": "", "unidad": "", "tipo": "simple" }
+            ]
+            },
+            {
+            "id": "relleno_causushis",
+            "nombre": "Relleno de causushis",
+            "tipo": "componente",
+            "ingredientes": [
+                { "id": "pulpo_causushi", "nombre": "Pulpo", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "papa_cocida", "nombre": "Papa cocida", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "salsa_olivo", "nombre": "Salsa de olivo", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "pimiento_piquillo", "nombre": "Pimiento piquillo", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "sal_causushi", "nombre": "Sal", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "limon_causushi", "nombre": "Limón", "cantidad": "", "unidad": "", "tipo": "simple" }
+            ]
+            },
+            {
+            "id": "relleno_macho",
+            "nombre": "Relleno de macho",
+            "tipo": "componente",
+            "ingredientes": [
+                { "id": "cebolla_morada", "nombre": "Cebolla morada", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "ajos_macho", "nombre": "Ajos", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "pulpo_macho", "nombre": "Pulpo", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "calamar_macho", "nombre": "Calamar", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "base_criolla", "nombre": "Base criolla", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "vino_blanco", "nombre": "Vino blanco", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "sal_macho", "nombre": "Sal", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "leche_tigre_macho", "nombre": "Leche de tigre", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "cilantro_macho", "nombre": "Cilantro", "cantidad": "", "unidad": "", "tipo": "simple" }
+            ]
+            },
+            { "id": "tequenos_macho", "nombre": "Tequeños a lo macho", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "calamares_apanados", "nombre": "Calamares apanados", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "papas_doradas", "nombre": "Papas doradas", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "anticucho_camarones", "nombre": "Anticucho camarones", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "choclo_salteado", "nombre": "Choclo salteado", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "causushis_pulpo", "nombre": "Causushis de pulpo", "cantidad": "", "unidad": "", "tipo": "simple" }
+        ]
+    },
+    {
+        "id": "gran_piqueo_tanta",
+        "plato": "GRAN PIQUEO TANTA",
+        "porciones": 1,
+        "ingredientes": [
+            { "id": "tequenos_aji", "nombre": "Tequeños de ají", "cantidad": "3", "unidad": "und", "tipo": "simple" },
+            { "id": "springroll", "nombre": "Springroll", "cantidad": "3", "unidad": "und", "tipo": "simple" },
+            {
+            "id": "wantan_pulperos",
+            "nombre": "Wantan pulperos",
+            "tipo": "componente",
+            "ingredientes": [
+                { "id": "pulpo_wantan", "nombre": "Pulpo", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "repollo", "nombre": "Repollo", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "kion", "nombre": "Kion", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "sal_wantan", "nombre": "Sal", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "azucar_wantan", "nombre": "Azúcar", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "aceite_sesamo", "nombre": "Aceite sésamo", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "clara_huevo", "nombre": "Clara de huevo", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "chuno", "nombre": "Chuño", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "cebollin_blanco", "nombre": "Cebollín parte blanca", "cantidad": "", "unidad": "", "tipo": "simple" }
+            ]
+            },
+            { "id": "papas_doradas", "nombre": "Papas doradas", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "causushis_pollo", "nombre": "Causushis de pollo", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "anticuchito_pollo", "nombre": "Anticuchito de pollo", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "salsa_huancaina", "nombre": "Salsa huancaína", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "salsa_guacamole", "nombre": "Salsa guacamole", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "crema_rocoto", "nombre": "Crema de rocoto", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "salsa_olivo", "nombre": "Salsa de olivo", "cantidad": "", "unidad": "", "tipo": "simple" }
+        ]
+    },
+    {
+        "id": "plato_pescador",
+        "plato": "PLATO DEL PESCADOR",
+        "porciones": 1,
+        "ingredientes": [
+            { "id": "masa_causa", "nombre": "Masa de causa", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "tomate", "nombre": "Tomate", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "palta", "nombre": "Palta", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "reineta", "nombre": "Reineta", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "chalaquita", "nombre": "Chalaquita", "cantidad": "", "unidad": "", "tipo": "simple" },
+            {
+            "id": "chalaquita_pescador",
+            "nombre": "Chalaquita de pescador",
+            "tipo": "componente",
+            "ingredientes": [
+                { "id": "cebolla", "nombre": "Cebolla", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "tomate_chalaquita", "nombre": "Tomate", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "cilantro_chalaquita", "nombre": "Cilantro", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "rocoto", "nombre": "Rocoto", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "sal_limon", "nombre": "Sal limón", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "ajinomoto_chalaquita", "nombre": "Ajinomoto", "cantidad": "", "unidad": "", "tipo": "simple" }
+            ]
+            },
+            {
+            "id": "leche_tigre_amarilla",
+            "nombre": "Leche de tigre amarilla",
+            "tipo": "componente",
+            "ingredientes": [
+                { "id": "leche_tigre_base", "nombre": "Leche de tigre", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "pasta_aji_amarillo", "nombre": "Pasta de ají amarillo", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "limon_leche", "nombre": "Limón", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "sal_leche", "nombre": "Sal", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "ajinomoto_leche", "nombre": "Ajinomoto", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "leche_evaporada", "nombre": "Leche evaporada", "cantidad": "", "unidad": "", "tipo": "simple" }
+            ]
+            },
+            {
+            "id": "tempura",
+            "nombre": "Tempura",
+            "tipo": "componente",
+            "ingredientes": [
+                { "id": "cerveza", "nombre": "Cerveza", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "agua_gas", "nombre": "Agua mineral con gas", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "sal_tempura", "nombre": "Sal", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "huevo", "nombre": "Huevo", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "harina_maiz", "nombre": "Harina de maíz", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "harina_trigo", "nombre": "Harina de trigo", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "hielo", "nombre": "Hielo", "cantidad": "", "unidad": "", "tipo": "simple" }
+            ]
+            },
+            { "id": "cilantro", "nombre": "Cilantro", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "criolla_pescador", "nombre": "Criolla de pescador", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "sal", "nombre": "Sal", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "mayonesa", "nombre": "Mayonesa", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "limon", "nombre": "Limón", "cantidad": "", "unidad": "", "tipo": "simple" }
+        ]
+    },
+    {
+        "id": "trio_crocante",
+        "plato": "TRIO CROCANTE",
+        "porciones": 1,
+        "ingredientes": [
+            { "id": "pescado", "nombre": "Pescado", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "calamar", "nombre": "Calamar", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "camaron", "nombre": "Camarón", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "sal", "nombre": "Sal", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "ajinomoto", "nombre": "Ajinomoto", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "ajos", "nombre": "Ajos", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "kion", "nombre": "Kión", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "harina", "nombre": "Harina", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "huevo", "nombre": "Huevo", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "chuno", "nombre": "Chuño", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "cancha", "nombre": "Cancha", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "chifle", "nombre": "Chifle", "cantidad": "", "unidad": "", "tipo": "simple" },
+
+            {
+            "id": "acevichada_siracha",
+            "nombre": "Acevichada de siracha",
+            "tipo": "componente",
+            "ingredientes": [
+                { "id": "mayonesa", "nombre": "Mayonesa", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "sriracha", "nombre": "Sriracha", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "sal_siracha", "nombre": "Sal", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "limon_siracha", "nombre": "Limón", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "leche_tigre_siracha", "nombre": "Leche de tigre", "cantidad": "", "unidad": "", "tipo": "simple" }
+            ]
+            },
+            {
+            "id": "acevichada_amarilla",
+            "nombre": "Acevichada amarilla",
+            "tipo": "componente",
+            "ingredientes": [
+                { "id": "cebolla", "nombre": "Cebolla", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "tomate", "nombre": "Tomate", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "cilantro", "nombre": "Cilantro", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "rocoto", "nombre": "Rocoto", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "sal_amarilla", "nombre": "Sal", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "ajinomoto_amarilla", "nombre": "Ajinomoto", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "leche_tigre_amarilla", "nombre": "Leche de tigre amarilla", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "limon_amarilla", "nombre": "Limón", "cantidad": "", "unidad": "", "tipo": "simple" }
+            ]
+            }
+        ]
+    },
+    {
+        "id": "super_gyozas",
+        "plato": "LAS SUPER GYOZAS",
+        "porciones": 1,
+        "ingredientes": [
+            {
+            "id": "relleno_gyozas",
+            "nombre": "RB Relleno de pollo gyozas",
+            "tipo": "componente",
+            "ingredientes": [
+                { "id": "pierna_pollo_piel", "nombre": "Pierna de pollo con piel", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "zumo_kion", "nombre": "Zumo de kión", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "cebollin_blanco", "nombre": "Cebollín parte blanca", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "aceite_sesamo", "nombre": "Aceite sésamo", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "sal_relleno", "nombre": "Sal", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "salsa_soya", "nombre": "Salsa de soya", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "ajo_limpio", "nombre": "Ajo limpio", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "azucar_rubia", "nombre": "Azúcar rubia", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "salsa_ostion", "nombre": "Salsa de ostión", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "col_china", "nombre": "Col china (repollo)", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "chuno_polvo", "nombre": "Chuño en polvo", "cantidad": "", "unidad": "", "tipo": "simple" }
+            ]
+            },
+            { "id": "masa_gyozas", "nombre": "Masa de gyozas", "cantidad": "", "unidad": "", "tipo": "simple" },
+            {
+            "id": "salsa_gyozas",
+            "nombre": "RB Salsa para gyozas",
+            "tipo": "componente",
+            "ingredientes": [
+                { "id": "vinagre_arroz", "nombre": "Vinagre de arroz", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "kion_rallado", "nombre": "Kión rallado", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "cebollin_blanco_salsa", "nombre": "Cebollín parte blanca", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "sriracha", "nombre": "Sriracha", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "salsa_soya_salsa", "nombre": "Salsa de soya", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "azucar_rubia_salsa", "nombre": "Azúcar rubia", "cantidad": "", "unidad": "", "tipo": "simple" }
+            ]
+            },
+            { "id": "cebollin", "nombre": "Cebollín", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "cilantro", "nombre": "Cilantro", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "aji_ptm", "nombre": "Ají PTM", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "aceite_vegetal", "nombre": "Aceite vegetal", "cantidad": "", "unidad": "", "tipo": "simple" }
+        ]
+    },
+    {
+        "id": "empanadas_san_telmo",
+        "plato": "EMPANADAS SAN TELMO",
+        "porciones": 1,
+        "ingredientes": [
+            { "id": "masa_empanada", "nombre": "Masa de empanada", "cantidad": "", "unidad": "", "tipo": "simple" },
+            {
+            "id": "relleno_empanada",
+            "nombre": "Relleno de empanada",
+            "tipo": "componente",
+            "ingredientes": [
+                { "id": "jamon_ingles", "nombre": "Jamón inglés", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "queso_gauda", "nombre": "Queso gauda", "cantidad": "", "unidad": "", "tipo": "simple" },
+                {
+                "id": "aderezo_panaderia",
+                "nombre": "Aderezo de panadería",
+                "tipo": "componente",
+                "ingredientes": [
+                    { "id": "cebolla_blanca", "nombre": "Cebolla blanca", "cantidad": "", "unidad": "", "tipo": "simple" },
+                    { "id": "sal_aderezo", "nombre": "Sal", "cantidad": "", "unidad": "", "tipo": "simple" },
+                    { "id": "aceite_aderezo", "nombre": "Aceite", "cantidad": "", "unidad": "", "tipo": "simple" },
+                    { "id": "oregano_aderezo", "nombre": "Orégano", "cantidad": "", "unidad": "", "tipo": "simple" }
+                ]
+                }
+            ]
+            },
+            {
+            "id": "chimichurri",
+            "nombre": "Chimichurri",
+            "tipo": "componente",
+            "ingredientes": [
+                { "id": "ajo_limpio", "nombre": "Ajo limpio", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "perejil_picado", "nombre": "Perejil picado", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "aceite_premezcla_chimi", "nombre": "Aceite pre mezcla", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "vinagre_blanco", "nombre": "Vinagre blanco", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "oregano_chimi", "nombre": "Orégano", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "sal_chimi", "nombre": "Sal", "cantidad": "", "unidad": "", "tipo": "simple" }
+            ]
+            },
+            { "id": "rb_tarichuri", "nombre": "RB Tarichuri", "cantidad": "", "unidad": "", "tipo": "simple" }
+        ]
+    },
+    {
+        "id": "tequenos_aji",
+        "plato": "TEQUEÑOS DE AJÍ",
+        "porciones": 1,
+        "ingredientes": [
+            { "id": "masa_primavera", "nombre": "Masa primavera", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "pollo", "nombre": "Pollo", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "cebolla_blanca", "nombre": "Cebolla blanca", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "ajos", "nombre": "Ajos", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "sal", "nombre": "Sal", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "comino", "nombre": "Comino", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "oregano", "nombre": "Orégano", "cantidad": "", "unidad": "", "tipo": "simple" },
+            {
+            "id": "base_aji_gallina",
+            "nombre": "Base de ají de gallina",
+            "tipo": "componente",
+            "ingredientes": [
+                { "id": "cebolla_morada", "nombre": "Cebolla morada", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "ajos_base", "nombre": "Ajos", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "pasta_aji_amarillo", "nombre": "Pasta de ají amarillo", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "pasta_aji_mirasol", "nombre": "Pasta de ají mirasol", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "comino_base", "nombre": "Comino", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "oregano_base", "nombre": "Orégano", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "sal_base", "nombre": "Sal", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "fondo_pollo", "nombre": "Fondo de pollo", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "leche_evaporada", "nombre": "Leche evaporada", "cantidad": "", "unidad": "", "tipo": "simple" },
+                { "id": "pan_blanco", "nombre": "Pan de molde blanco", "cantidad": "", "unidad": "", "tipo": "simple" }
+            ]
+            },
+            {
+                "id": "huacamole",
+                "nombre": "Huacamole (salsa)",
+                "tipo": "componente",
+                "ingredientes": [
+                    { "id": "palta", "nombre": "Palta", "cantidad": "", "unidad": "", "tipo": "simple" },
+                    { "id": "tomate", "nombre": "Tomate", "cantidad": "", "unidad": "", "tipo": "simple" },
+                    { "id": "cebolla", "nombre": "Cebolla", "cantidad": "", "unidad": "", "tipo": "simple" },
+                    { "id": "cilantro", "nombre": "Cilantro", "cantidad": "", "unidad": "", "tipo": "simple" },
+                    { "id": "sal_huacamole", "nombre": "Sal", "cantidad": "", "unidad": "", "tipo": "simple" },
+                    { "id": "limon", "nombre": "Limón", "cantidad": "", "unidad": "", "tipo": "simple" },
+                    { "id": "rocoto", "nombre": "Rocoto", "cantidad": "", "unidad": "", "tipo": "simple" },
+                    { "id": "tabasco", "nombre": "Tabasco", "cantidad": "", "unidad": "", "tipo": "simple" }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "lomo_saltado_springroll",
+        "plato": "LOMO SALTADO SPRINGROLL",
+        "porciones": 1,
+        "ingredientes": [
+            { "id": "masa_primavera", "nombre": "Masa primavera", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "lomo_fino", "nombre": "Lomo fino", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "cebolla", "nombre": "Cebolla", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "tomate", "nombre": "Tomate", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "cilantro", "nombre": "Cilantro", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "cebollin", "nombre": "Cebollín", "cantidad": "", "unidad": "", "tipo": "simple" },
+            { "id": "aji_amarillo", "nombre": "Ají amarillo", "cantidad": "", "unidad": "", "tipo": "simple" },
+
+            { "id": "salsa_espanola", "nombre": "Salsa española", "cantidad": "", "unidad": "", "tipo": "simple" },
+
+            {
+                "id": "crema_rocoto",
+                "nombre": "Crema de rocoto",
+                "tipo": "componente",
+                "ingredientes": [
+                    { "id": "rocoto_limpio", "nombre": "Rocoto limpio", "cantidad": "", "unidad": "", "tipo": "simple" },
+                    { "id": "cebolla_morada", "nombre": "Cebolla morada", "cantidad": "", "unidad": "", "tipo": "simple" },
+                    { "id": "sal_crema", "nombre": "Sal", "cantidad": "", "unidad": "", "tipo": "simple" },
+                    { "id": "limon_crema", "nombre": "Limón", "cantidad": "", "unidad": "", "tipo": "simple" },
+                    { "id": "galleta_sosa", "nombre": "Galleta de sosa", "cantidad": "", "unidad": "", "tipo": "simple" },
+                    { "id": "agua_mineral", "nombre": "Agua mineral", "cantidad": "", "unidad": "", "tipo": "simple" }
+                ]
+            }
+        ]
+    }
+]
