@@ -1,0 +1,188 @@
+:root {
+  --bg: #121212;
+  --text: #270c0c;
+  --muted: #dddddd;
+  --accent: #B71C1C;
+  /* burdeos sobrio */
+  --card-bg: #1E1E1E;
+  --border: #3a3a3a;
+  --radius: 8px;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Inter", "Segoe UI", Roboto, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+li{
+  background: "white";
+    color: #fff;
+}
+/* Encabezado principal */
+header {
+  background: var(--accent);
+  color: #fff;
+  padding: 16px 20px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+header h1 {
+  margin: 0;
+  font-weight: 700;
+  font-size: 1.4rem;
+  letter-spacing: 0.02em;
+}
+
+/* Navegación */
+nav {
+  display: flex;
+  gap: 8px;
+  padding: 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+nav button {
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--card-bg);
+  color: var(--text);
+  cursor: pointer;
+  transition: background .2s ease, transform .1s ease;
+}
+
+nav button:hover {
+  background: var(--accent);
+  color: #fff;
+  transform: translateY(-1px);
+}
+
+/* Tarjetas de platos */
+.card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 12px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
+}
+
+.card h4 {
+  margin: 0 0 8px 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.card p {
+  margin: 0 0 12px 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+/* Botones dentro de tarjetas */
+.card button {
+  flex: 1;
+  padding: 8px 10px;
+  border-radius: 6px;
+  border: none;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: background .2s ease, color .2s ease;
+}
+
+/* Botón Ver ingredientes */
+.card button:first-child {
+  background: var(--accent);
+  color: #fff;
+}
+
+.card button:first-child:hover {
+  background: #d32f2f;
+}
+
+/* Botón Modo Estudio */
+.card button:nth-child(2) {
+  background: #2a2a2a;
+  color: #f5f5f5;
+}
+
+.card button:nth-child(2):hover {
+  background: #3a3a3a;
+}
+
+/* Botón Copiar */
+.card button:nth-child(3) {
+  background: #444;
+  color: #fff;
+}
+
+.card button:nth-child(3):hover {
+  background: #666;
+}
+
+/* Títulos de platos en vistas */
+h2,
+h3 {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 1.4rem;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+}
+
+/* Instrucciones */
+.instrucciones {
+  color: var(--muted);
+  font-size: 1rem;
+  margin: 8px 0 16px;
+}
+
+/* Checklists */
+label {
+  display: block;
+  margin: 6px 0;
+  font-size: 1rem;
+  color: #f5f5f5;
+}
+
+input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+/* Botones generales */
+button {
+  font-family: inherit;
+  font-size: 0.95rem;
+  border: none;
+  border-radius: 6px;
+  padding: 10px 14px;
+  cursor: pointer;
+  transition: background .2s ease;
+}
+
+button.primary {
+  background: var(--accent);
+  color: #fff;
+}
+
+button.primary:hover {
+  background: #d32f2f;
+}
+
+button.secondary {
+  background: var(--card-bg);
+  color: var(--text);
+  border: 1px solid var(--border);
+}
+
+button.secondary:hover {
+  background: #2a2a2a;
+}
